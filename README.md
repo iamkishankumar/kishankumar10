@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishankumar10
+- 👋 Hi, I’m @kishankumar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Statistics for Data Science 
 - 💞️ I’m looking to collaborate on Data Analysis and Data Visualization
